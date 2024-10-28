@@ -1,7 +1,5 @@
 # Horrortown Project 🎃
 
-> Este es mi proyecto en colaboración con *@Simón M Pinales*
-
 ![Halloween-Portada](https://jcsdragontales.com/wp-content/uploads/2021/11/halloween-gettyimages-172988453.jpeg)
 
 Este projecto es acerca de la industria del terror en el cine:
@@ -13,13 +11,18 @@ Este projecto es acerca de la industria del terror en el cine:
 - Directores Influyentes
 
 ---
+> Este es mi proyecto en colaboración con *@Simón M Pinales*
+---
+
+## Cronología del proyecto ⏱
 <table>
 
 <thead>
 
 <tr>
-    <th> Proyecto To-Do</th>
-    <th> Status</th>
+    <th> Etapas </th>
+    <th> Status </th>
+    <th> Fechas </th>
 </tr>
 
 </thead>
@@ -28,36 +31,44 @@ Este projecto es acerca de la industria del terror en el cine:
 <tr>
     <td>Plantear Proyecto</td>
     <td>✅</td>
+    <td>25 / 10 / 2024 </td>
+    
 
  </tr>
 
  <tr>
     <td>Configurar git </td>
     <td>✅ </td>
+    <td>28 / 10 / 2024 </td>
+
     
  </tr>
 
  <tr>
     <td>Dar estructura </td>
     <td>❌</td>
+    <td>Indeterminado</td>
     
  </tr>
 
   <tr>
     <td>Rellenar Página </td>
     <td>❌</td>
+    <td>Indeterminado</td>
     
  </tr>
 
   <tr>
     <td>Estilización  </td>
     <td>❌</td>
+    <td>Indeterminado</td>
     
  </tr>
 
   <tr>
     <td>Depurar </td>
     <td>❌</td>
+    <td>Indeterminado</td>
     
  </tr>
 </tbody>
@@ -66,7 +77,7 @@ Este projecto es acerca de la industria del terror en el cine:
 
 <tr> 
 
-<td colspan = "2"> Finalización del proyecto 🏁💥</td>
+<td colspan = "3"> Finalización del proyecto 🏁💥</td>
 
 </tr>
 
@@ -74,13 +85,9 @@ Este projecto es acerca de la industria del terror en el cine:
 
 </table>
 
-
 ---
-**Comienzo:** *28/10/2024*
 
-**Finalización:** *Pronto xD*
-
----
 Espero que les guste! 🖤
+
 
 
