@@ -1,6 +1,6 @@
 # Horrortown Project 🎃
 
-	![Portada](halloween.jpeg)
+![Halloween-Portada](https://jcsdragontales.com/wp-content/uploads/2021/11/halloween-gettyimages-172988453.jpeg)
 
 Este projecto es acerca de la industria del terror en el cine:
 
