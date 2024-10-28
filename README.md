@@ -1,5 +1,7 @@
 # Horrortown Project 🎃
 
+	![Portada](halloween.jpeg)
+
 Este projecto es acerca de la industria del terror en el cine:
 
 - Historia
@@ -8,14 +10,15 @@ Este projecto es acerca de la industria del terror en el cine:
 - Personajes
 - Directores Influyentes
 
-Este es mi proyecto en colaboración con *@Simón M Pinales*
+> Este es mi proyecto en colaboración con *@Simón M Pinales*
+
 
 ---
-
 **Comienzo:** *28/10/2024*
 
 **Finalización:** *Pronto xD*
 
+---
 Espero que les guste! 🖤
 
 
